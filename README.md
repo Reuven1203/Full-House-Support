@@ -1,8 +1,9 @@
-# Full House – Support & Privacy Policy
-_Last Updated: November 26 2025_
+# Full House – Support &amp; Privacy Policy
 
-Welcome to **Full House**, a mobile app designed for managing poker leagues, tracking sessions, player statistics, and buy-ins/cash-outs.  
-This page provides support information and our full privacy policy.
+*Last Updated: May 31, 2026*
+
+Welcome to **Full House**, a mobile app for managing home poker games — tracking sessions, player statistics, and buy-ins/cash-outs.
+This page provides support information and our full privacy policy. See also our [Terms &amp; Conditions](terms.html).
 
 ---
 
@@ -10,16 +11,15 @@ This page provides support information and our full privacy policy.
 
 If you need help, have questions, or want to report an issue, you can contact us here:
 
-**Email:** reuven1203@gmail.com  
-**GitHub Issues:** https://github.com/reuven1203/fullhouse-support/issues
+**Email:** reuven1203@gmail.com
 
 ---
 
 # Privacy Policy
 
 ## Introduction
-Full House ("we," "our," or "the app") is committed to protecting your privacy.  
-This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Full House ("we," "our," or "the app") is committed to protecting your privacy.
+This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application. Full House is a record-keeping tool for casual home poker games; it does not facilitate real-money gambling.
 
 ---
 
@@ -27,49 +27,57 @@ This Privacy Policy explains how we collect, use, and safeguard your information
 
 ### 1. Account Information
 When you create an account, we collect:
+
 - Email address
 - Display name (optional)
-- Profile photo (if provided via Google Sign-In)
+- Profile photo (optional)
 - Unique user identifier (UID)
+- The identifier provided by **Sign in with Apple** or **Google Sign-In** if you use social login
 
 ### 2. Game Data
 To provide our services, we store and process:
+
 - League information (league name, settings)
-- Session data (cash game sessions, buy-ins, cash-outs)
+- Session data (cash game and tournament sessions, buy-ins, cash-outs)
 - Player statistics (games played, win rates, profit/loss)
 - Leaderboard information
 - Player relationships and league memberships
 
-### 3. Device Information
+### 3. Location Information
+If you grant permission, we use your device's location to **automatically tag the address where a poker session takes place**. This is optional — you can decline and enter the location manually. Coordinates are converted into a readable address using OpenStreetMap (Nominatim).
+
+### 4. Camera &amp; Photos
+If you choose to set a profile picture, we access your **camera** or **photo library** so you can take or select an image. This is optional.
+
+### 5. Device Information
 We collect:
+
 - Push notification tokens (FCM/APNs)
 - Device information necessary for app functionality
 
-### 4. Authentication Data
-We use Firebase Authentication and Google Sign-In to authenticate users.  
-When signing in with Google, we may receive:
-- Name
-- Email
-- Profile photo
-
-Only what your Google account permits.
+### 6. Authentication Data
+We use Firebase Authentication, **Sign in with Apple**, and **Google Sign-In** to authenticate users. When signing in with a social provider, we may receive your name, email, and profile photo — only what your account permits.
 
 ---
 
 ## How We Use Your Information
 
 We use the information we collect to:
+
 - Provide and maintain the app's functionality
 - Track sessions, buy-ins, and cash-outs
 - Calculate and display player statistics and leaderboards
+- Tag session locations and display them on a map (only when you allow location access)
 - Send push notifications (game invites, reminders, updates)
 - Manage league memberships and player relationships
 - Improve our services
 
+We do **not** include advertising, and we do **not** track you across other apps or websites.
+
 ---
 
 ## Data Storage and Security
-Your data is stored securely using Firebase (Google Cloud Platform).  
+Your data is stored securely using Firebase (Google Cloud Platform).
 We implement security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction.
 
 ---
@@ -77,8 +85,10 @@ We implement security measures to protect your personal information from unautho
 ## Third-Party Services
 
 Full House uses:
-- Firebase (Google): authentication, data storage, push notifications
-- Google Sign-In: optional user authentication
+
+- **Firebase (Google):** authentication, data storage, push notifications
+- **Sign in with Apple** and **Google Sign-In:** optional user authentication
+- **OpenStreetMap (Nominatim):** converts location coordinates into a readable address when you tag a session's location
 
 These services have their own privacy policies.
 
@@ -89,29 +99,30 @@ These services have their own privacy policies.
 We do not sell, trade, or rent your personal information.
 
 Your game data is only visible to:
+
 - You
 - Other members of leagues you join
 - League administrators
 
 ---
 
-## Push Notifications
+## Permissions We Request
 
-If enabled, we use your device's push token to send:
-- Game invites
-- League updates
-- Important reminders
+- **Location** — to auto-fill the address of a poker session. Optional.
+- **Camera &amp; Photos** — to set a profile picture. Optional.
+- **Notifications** — to alert you about games and league activity. Optional.
 
-You can disable notifications at any time through your device settings.
+Each permission is requested only when needed, and the app remains usable if you decline.
 
 ---
 
 ## Your Rights
 
 You have the right to:
+
 - Access your personal data
 - Correct inaccurate data
-- Request deletion of your account and all associated information
+- Request deletion of your account and all associated information (or use the in-app account deletion feature, which permanently removes your account and personal data)
 - Opt out of push notifications
 
 To exercise these rights, contact us at: **reuven1203@gmail.com**
@@ -120,21 +131,21 @@ To exercise these rights, contact us at: **reuven1203@gmail.com**
 
 ## Data Retention
 
-We retain your information for as long as your account is active or as needed to provide our services.  
+We retain your information for as long as your account is active or as needed to provide our services.
 If you delete your account, we will delete your personal information, subject to legal requirements.
 
 ---
 
 ## Children's Privacy
 
-Full House is not intended for users under the age of 18.  
+Full House is not intended for users under the age of 18.
 We do not knowingly collect personal information from children under 18.
 
 ---
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time.  
+We may update this Privacy Policy from time to time.
 Updates will be posted here with a new "Last Updated" date.
 
 ---
@@ -143,5 +154,4 @@ Updates will be posted here with a new "Last Updated" date.
 
 If you have questions about this Privacy Policy or the app, you can reach us:
 
-**Email:** reuven1203@gmail.com  
-**GitHub Issues:** https://github.com/reuven1203/fullhouse-support/issues
+**Email:** reuven1203@gmail.com
