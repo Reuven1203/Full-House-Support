@@ -58,7 +58,7 @@ We may suspend or terminate your access to the app if you violate these Terms. Y
 We may update these Terms from time to time. Updates will be posted here with a new "Last Updated" date. Continued use of the app after changes take effect constitutes acceptance of the revised Terms.
 
 ## 13. Governing Law
-These Terms are governed by the laws of [your province/country], without regard to conflict-of-law principles.
+These Terms are governed by the laws of the Province of Quebec and the federal laws of Canada applicable therein, without regard to conflict-of-law principles.
 
 ## 14. Contact Us
 Questions about these Terms? Contact us at **reuven1203@gmail.com**.
